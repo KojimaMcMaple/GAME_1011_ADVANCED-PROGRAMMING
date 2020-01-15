@@ -138,11 +138,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Main.cpp" />
-    <ClCompile Include="Orc.cpp" />
+    <ClCompile Include="Le_Trung_ID101264698_Lab1_Main.cpp" />
+    <ClCompile Include="Le_Trung_ID101264698_Lab1_Orc.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Orc.h" />
+    <ClInclude Include="Le_Trung_ID101264698_Lab1_Orc.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

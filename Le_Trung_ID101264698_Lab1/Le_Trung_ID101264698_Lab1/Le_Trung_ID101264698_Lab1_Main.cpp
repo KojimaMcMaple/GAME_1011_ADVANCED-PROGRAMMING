@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "Orc.h"
+#include "Le_Trung_ID101264698_Lab1_Orc.h"
 
 int main() {
 	Orc* orc_ptr = nullptr;

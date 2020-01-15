@@ -1,4 +1,4 @@
-#include "Orc.h"
+#include "Le_Trung_ID101264698_Lab1_Orc.h"
 
 Orc::Orc()
 {
